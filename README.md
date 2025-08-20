@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Source/icon.ico" width="100" alt="IR Extractor Mini Logo">
+</p>
+
 # IR-Extractor-Mini
 A minimal and lightweight application for extracting impulse responses using exponential sweeps.
 
