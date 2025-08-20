@@ -23,7 +23,7 @@ A minimal and lightweight application for extracting impulse responses using exp
 
 ## Download
 
-👉 [Download IR Extractor v1.0.0](https://github.com/Danial-k-f/IR-Extractor-Mini/releases/latest)
+👉 [Download IR Extractor v1.0.0](https://github.com/Danial-k-f/IR-Extractor-Mini/releases/tag/v1.0.0)
 
 
 ## License
