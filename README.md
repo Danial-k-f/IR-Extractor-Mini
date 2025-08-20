@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Source/icon.ico" width="100" alt="IR Extractor Mini Logo">
+  <img src="icon.ico" width="100" alt="IR Extractor Mini Logo">
 </p>
 
 # IR-Extractor-Mini
