@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # IR-Extractor-Mini
 A minimal and lightweight application for extracting impulse responses using exponential sweeps.
 
@@ -23,4 +23,4 @@ A minimal and lightweight application for extracting impulse responses using exp
 =======
 # IR-Extractor-Mini
 A minimal and lightweight application for extracting impulse responses using exponential sweeps.
->>>>>>> 887426abd144c62fcda6d7fe6940e2bd4b1dd954
+
