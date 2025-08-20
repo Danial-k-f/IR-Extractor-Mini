@@ -22,7 +22,7 @@ A minimal and lightweight application for extracting impulse responses using exp
 3. Press Save IR and save IR.wav to your drive.
 
 ## Download
-👉 [Latest Release](https://github.com/USERNAME/IR-Extractor-Mini/releases)
+👉 [Latest Release](https://github.com/Danial-k-f/IR-Extractor-Mini/releases/tag/v1.0.0)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file.
