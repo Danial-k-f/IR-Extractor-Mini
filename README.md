@@ -15,7 +15,7 @@ A minimal and lightweight application for extracting impulse responses using exp
 
 ## Usage
 1. Run the standalone app.
-2. Start capture → play sweep → stop capture.
+2. Start Load Dry File (raw.wav)  → Load wet file (reverbed.wav) → Press Generate IR  →  Press Save IR and save it to your drive.
 3. Export IR to WAV.
 
 ## Download
