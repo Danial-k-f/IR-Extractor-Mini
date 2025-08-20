@@ -15,8 +15,8 @@ A minimal and lightweight application for extracting impulse responses using exp
 
 ## Usage
 1. Run the standalone app.
-2. Start Load Dry File (raw.wav)  → Load wet file (reverbed.wav) → Press Generate IR  →  Press Save IR and save it to your drive.
-3. Export IR to WAV.
+2. Start Load Dry File (raw.wav)  → Load wet file (reverbed.wav) → Press Generate IR .
+3. Press Save IR and save IR.wav to your drive.
 
 ## Download
 👉 [Latest Release](https://github.com/USERNAME/IR-Extractor-Mini/releases)
